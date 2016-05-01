@@ -1,0 +1,82 @@
+1
+0
+!
+2
+Ursprünglich erste frage
+-
+1
+Richtige Antwort
+-
+0
+Falsche Antwort
+-
+3
+src/testpic.png
+-
+#
+0
+0
+!
+2
+Ursprünglich zweite frage
+-
+1
+Richtig 0
+-
+1
+Richtig 1
+-
+1
+Richtig 2
+-
+1
+Richtig 3
+-
+1
+Richtig 4
+-
+#
+0
+0
+!
+2
+Ursprünglich dritte frage
+-
+1
+Richtig 0
+-
+1
+Richtig 1
+-
+1
+Richtig 2
+-
+1
+Richtig 3
+-
+1
+Richtig 4
+-
+#
+0
+0
+!
+2
+Ursprünglich vierte frage
+-
+1
+Richtig 0
+-
+1
+Richtig 1
+-
+1
+Richtig 2
+-
+1
+Richtig 3
+-
+1
+Richtig 4
+-
+#

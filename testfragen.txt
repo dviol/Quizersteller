@@ -1,0 +1,2968 @@
+0
+2
+2
+Which is correct? End-systolic volume in the ventricles of the heart in healthy adults under resting conditions is about.
+1
+50ml
+0
+500ml
+0
+10ml
+0
+70ml
+0
+120ml
+#
+0
+2
+2
+Which is wrong? The oxygen binding cureve of blood...
+0
+shows half saturation at a partial pressure of about 25 mmHg
+1
+is shifted to the left in the presence of increased CO2
+0
+is very steep below a partial pressure of abotu 40 mmHg
+0
+showas a plateau
+0
+shows near to maximal oxygen binding at a partial pressure of 100 mmHg
+#
+0
+1
+2
+Which is correct? Vital capacity of the lungs is ..
+0
+expiratory reserve volume + tidal volume
+0
+expiratory reserve volume + inspiratory reserve volume
+0
+tidal volume + residual volume
+0
+inspiratory reserve volume + tidal volume
+1
+expiratory reserve volume + tidal volume + inspiratory reserve volume
+#
+0
+1
+2
+In capillaries, there is filtration and subsequent reabsorption of plasma fluid. Which of the following factors decreases filtration?
+1
+Increased colloid osmotic pressure in the interstitial space
+0
+Increased hydrostatic pressure inside blood vessels
+0
+Dilation of aterjoles
+0
+Increased hydrostatic pressure in the interstitial space
+0
+Decreased colloid osmotic pressure inside the capillary
+#
+0
+1
+2
+Which is wrong? Fibrin...
+0
+is a protein
+0
+is normally present in blood plasma
+1
+plays an important role in blood coagulation
+0
+forms a network-like arrangement
+0
+is produced enzymatically from a precurso molecule
+#
+0
+1
+2
+Which of the following statements is wrong? Blood flow...
+0
+may become turbulent under some conditions
+1
+is very fast in the capillaries
+0
+is mostly laminar
+0
+is almost not pulsatile in the capillaries
+0
+is regulated locally by resistance vessels
+#
+0
+1
+2
+Which is wrong?
+0
+During the cardiac cycle normally two heart sounds can be heard
+0
+diastole consists of isovolumic relaxation and ventricular filling
+1
+Ventricular filling is normally performed mainly by contracion of the atria
+0
+Isovolumic contraction of ventricles occurs in the first phase of systole
+0
+the heartbeat originates from the sinus (sinoatrial) node
+#
+0
+1
+2
+Which is wrong?
+0
+CO2 is transported in the blood2 in different form
+1
+The amount of CO2, which can be transported in oxygenised blood is higher than the amount of CO2, which can be transported in the same volume of deoxygenised blood.
+0
+CO2 solubility in blood is much better than that of O2
+0
+CO2 binding curve shows no saturation
+0
+the carbonic anhydrase reaction is important for CO2 transport in blood
+#
+0
+1
+2
+Which of the following statements about nitric oxide (NO) is wrong?
+0
+evokes vasodilation
+0
+is also called endothelium-derived relaxing factor
+0
+is released in response to shear stress of blood flowing along the endothelium
+0
+is released in response to some biologically active substances
+1
+when blocked experimantally leads to a decrease of blood pressure
+#
+0
+1
+2
+Which is correct? The lungs expand during inspiration because of...
+1
+negative pressure between visceral (pulmonary) and parietal pleura
+0
+negative pressure in th ealveoli
+0
+negative pressure in the abdomial cavity
+0
+positive pressure in the atmosphere
+0
+positive pressure in the alveoli
+#
+0
+0
+2
+Which is wrong?
+1
+Neutrophils phagocytose bacteria
+0
+Lymphocytes belong to the specific immune system
+0
+Basophilic granulocytes are the least numerous leukocytas in blood
+0
+The stem cell of T lymphocytes is resident in the thymus
+0
+Monocytes become macrophages
+#
+0
+0
+2
+In capillaries, there is filtration und subsequent reabsorption of plasma fluid. Which of th efollowing factors does not increase filtration?
+1
+Decreased hydrostatic pressure in the interstitial space
+0
+increased colloid osmotic pressure inside the capillary
+0
+Increased hydrostatic pressure inside blood vessels
+0
+Dilation of arterioles
+0
+increased colloid osmotic pressure in the interstitial space
+#
+0
+2
+2
+Which is wrong? The following statements applay when measuring aterial blood pressure with an inflatable cuff and a stethoscope
+0
+When the pressure in the cuff is below diastolic pressure no noise is heard with the stethoscope
+0
+The lower the pressure in the cuff becomes between systolic and diastolic pressure, the shorter in duration is the pulsatile nois heard with the stethoscope.
+0
+The higher the pressure in the cuff is between systolic and diastolic pressure, the louder is the pulsatile noise heard with the stethoscope
+0
+When the pressure in the cuff is between systolic and diastolic pressure, a pulsatile noise is hear with the stethoscope.
+1
+When the pressure in the cuff is below diatolic pressure, no noise is heard with the stethoscope
+#
+0
+0
+2
+Which is correct? Proton secretion in the stomach...
+1
+can generate a pH as low as 1.0
+0
+is performed by G cells
+0
+is a passive transport process
+0
+is controlled by sympathetic nerves
+0
+is inhibited by histamine
+#
+0
+0
+2
+Which of the following factors is most important for the regulation of respiration under normal conditions?
+0
+painful stimuli
+0
+hematocrit
+0
+oxygen
+1
+CO2
+0
+blood PH
+#
+0
+2
+2
+Which is wrong? The blood flow (per unit of time) through a given blood vessel depends on.....
+0
+the length of the blood vessel
+1
+the thickness of the wall of the blood vessel
+0
+blood viscosity
+0
+the pressure difference between the ends of the blood vessel
+0
+the diameter of the blood vessel
+#
+0
+2
+2
+Which if is correct? Functional residual capacity of the lungs of a male young healthy adult person under resting conditions is approximately
+1
+3L
+0
+1L
+0
+1.5L
+0
+0.5L
+0
+2L
+#
+0
+0
+2
+Which is correct? The amplitude of the ECG is in the range of...
+0
+1 V
+0
+10 microV
+1
+10 mV
+0
+1 microV
+0
+1 mV
+#
+0
+0
+2
+Which is correct? Ligand-gated Na* channels produce...
+0
+action potentials
+0
+IPSPs
+0
+receptor potentials
+0
+the resting membrane potential
+1
+EPSPs
+#
+0
+0
+2
+Which is the main transport form of CO2 in the blood?
+0
+Binding to hemoglobin
+0
+Binding to plasma proteins
+1
+Bicarbonate
+0
+Carbamate
+0
+Physical solution
+#
+0
+2
+2
+Which is wrong?
+0
+The level of CO in blood is normally only small
+0
+Smokers have an increased CO level in blood
+0
+CO impairs oxygen transport
+0
+The affinity of CO to bind to hemoglobin is about 35ß times higher than the affinity of oxygen
+1
+CO supports the release of oxygen from haemoglobin in peripheral tissues
+#
+0
+0
+2
+Which is correct? Hypoventilation causes...
+0
+respiratory alkalosis
+1
+respiratory acidosis
+0
+non-respiratory alkalosis
+0
+non-respiratory acidosis
+0
+ketoacidosis
+#
+0
+0
+2
+Which is wrong?
+0
+Bilirubin is derived from heme
+0
+Bile contains digestive enymes
+0
+Bile is necessary for absorption of lipid soluble vitamins
+1
+Bile salts are synthesized from cholesterol
+0
+The gall bladder stores and concentrates bile
+#
+0
+0
+2
+Which is correct? Compliance of the lungs...
+0
+leads to an impairment of diffusion
+1
+is decreased when elastin fibers are replaced by collagen
+0
+affects expiration more than inspiration
+0
+is increased in lung fibrosis
+0
+is increased when there is a lack of surfactant
+#
+0
+2
+2
+Which of the following statements is wrong? Airway resistance...
+1
+is responsible for the negative alveolar pressure during inspiration
+0
+affects inspiration more than expiration
+0
+is increased by inflammation of the bronchial system
+0
+is increased in asthma
+0
+when incerased leads to decreased maximum voluntary ventilation
+#
+0
+2
+2
+Which is correct? When aterial blood pressure increases, this results in...
+0
+constriction of most arterioles
+0
+a decrease of vagus nerve activity innervating the sinoatrial node
+1
+a decrease of sympathetic activity arriving at resistance vessels
+0
+an increase of cardiac output
+0
+an increase of heart rate
+#
+0
+2
+2
+Which is correct? Voltage-gated Na* channels produce..
+0
+receptor potentials
+0
+action potentials
+1
+IPSPs
+0
+the resting membrane potential
+0
+EPSPs
+#
+0
+0
+2
+Which is correct?
+0
+skeletal muscle fibers showing fatigue are rich in myoglobin
+1
+Muscle fibers showing fatigue produce the highest contractile force
+0
+Slow muscle fibers produce ATP mainly by anaerobic glycolysis
+0
+fast glycolytic fibers are richly supplied by capillaries
+0
+Individual motor units contain both fast glycolytic fibers and slow oxidativ fibers
+#
+0
+0
+2
+What is approx the electrical axis of the heart when there's almost no R wave and almost no S wave in Einthoven III and a large R wave of similar amplitude in Einthoven I and in Einthoven II
+0
+150°
+0
+90°
+0
+120°
+0
+0°
+1
+30°
+#
+0
+0
+2
+In which part of the gastrointestinal tract is most of the water absorbed?
+0
+Stomach
+0
+Esophagus
+1
+Small inestine
+0
+Colon
+0
+Rectum
+#
+0
+0
+2
+Which is wrong? Thrombocytes (platelets)...
+0
+are derrived from megakaryocytes
+0
+release bioactive molecules
+1
+are activated by exposed collagen
+0
+initiat hemostasis
+0
+need Ca++ for thei adhesion
+#
+0
+0
+2
+Which is correct? Vasoconstriction in arterioles is induced by...
+0
+decrease in local tissue pH
+0
+decrease of local oxygen partial pressure
+1
+noradrenaline
+0
+substance P
+0
+prostaglandins
+#
+0
+2
+2
+Which is wrong? In skeletal muscle, Ca++....
+1
+mediates excitation-concentration coupling
+0
+incereases in cytoplamic concentration during contractions
+0
+is stored in the sarcoplasmatic reticulum
+0
+binds to troponin at the start of contration
+0
+diffuses back into the stores at the end of contraction
+#
+0
+1
+2
+Which of the following plasma protein fractions contains antibodies?
+1
+y(gamma)globulines
+0
+a(alpha)-2 globulines
+0
+b(beta) globulines
+0
+a(alpha)-1 globulines
+0
+albumin
+#
+0
+1
+2
+Which is correct? Reticulocytes
+0
+decrease in number when staying in high altiude
+1
+are only found in red bone marrow
+0
+are precursoer cells of lymphocytes
+0
+have an nucleus
+0
+increase in number after blood loss
+#
+0
+1
+2
+Which is correct? An axon classified as group I axon conducts at about
+0
+1 ms^-1
+0
+60ms^-1
+1
+100 ms^-1
+0
+30ms^-1
+0
+10ms^-1
+#
+0
+1
+2
+Which is correct? Blood flow in the coronary circulation is mainly controlled by
+0
+angiotensin
+0
+sympathetic nerve fibers
+0
+parasympathetic nerve fibers
+0
+the "Windkessel" of the aorta
+1
+local in particular metabloic factors
+#
+0
+1
+2
+Which of the following blood vessels are most important for regulating peripheral vascular resistance?
+0
+Venules
+1
+Capillaries
+0
+Veins
+0
+Aorta
+0
+Arterioles
+#
+0
+1
+2
+Which is wrong? Fibrinogen...
+1
+is present in blood serum
+0
+is a protein
+0
+is converted enzymatically to becom fibrin
+0
+plays an important role in blood coagulation
+0
+is prouduced by the liver
+#
+0
+1
+2
+Which is wrong? Turbulent blood flow...
+0
+occurs most often in large blood vessels
+1
+shows a linear pressure - flow relationship
+0
+tipically coours when hematocrit decreases
+0
+is usually not present in mos parts of the cariovascular system
+0
+can occur when blood flow velocity is high
+#
+0
+1
+2
+Which is correct? The net filtration pressure in the renal corpuscles (glomeruli) of the kidneys amounts to about...
+1
+10 mmHg
+0
+120 mmHg
+0
+25 mmHg
+0
+50 mmHg
+0
+80 mmHg
+#
+0
+1
+2
+Which is wrong?
+0
+The neuromuscular junction is a chemical synapse
+0
+Each skeletal muscle fibar is innervated by the axon of only a single motoneuron
+0
+Postsynaptic potentials at the neuromuscular junction are large
+1
+Neurotransmission at the neuromuscular junction involves inhibitory receptors
+0
+Postsynaptic receptors at the neuromuscular junction are permeable Na* Ions
+#
+0
+1
+2
+Which is correct? The funcition of eosinophils (eosinophilic granulocytes) is...
+0
+release of histamin
+1
+playing an important role in parasite infections
+0
+killing of virus-infected cells
+0
+phagocytosis
+0
+antipody production
+#
+0
+1
+2
+Which is wrong? When aterial blood pressure increases , the baroreceptor reflex evokes...
+1
+a decrease of vagus nerve activity innervating the sinoatrial node
+0
+a decrease of cardiac output
+0
+a decrease of heart rate
+0
+a decrease of sympathetic activity arriving at resistance vessels
+0
+dilation of most arterioles
+#
+0
+1
+2
+Which is wrong? A Tetanus...
+0
+is a summation of action potentials on the muscle fibers
+0
+is due to accumulation of Ca++ ions in muscle fibers
+0
+can be fuesd or unfused
+0
+is generated by high frequency stimulation of motor axons
+1
+continues for a short time after the end of stiumulation
+#
+0
+1
+2
+Which is wrong? Vital capacity of th elungs...
+0
+is an important factor that determines the maximum minute respiratory volume
+0
+consist of expiratory reserve volume+ tidal volume + inspiratory reserve volume
+1
+is increased in lung fibrosis
+0
+decreases with age
+0
+is about 4.5L in a young healthy male average adult
+#
+0
+1
+2
+Which is correct? An axon classified as group IV axon conducts at about...
+1
+1ms^-1
+0
+10ms^-1
+0
+100ms^-1
+0
+60ms^-1
+0
+30ms^-1
+#
+0
+1
+2
+Different parts of the cardiovascular system are ranked with respect to average blood pressure present insiede. Which of the following rankings is the correct one?
+0
+Left ventricle > aorta > capillaries > arterioles > vena cava
+0
+Aorta > left ventricle > arterioles > vena cava > capillaries
+0
+left ventricle > aorta > capillaries > arterioles > vena cava
+0
+aorta > left ventricle > vena cava > arterioles > capillaires
+1
+Aorta > left ventricle > arterioles > capillaries > vena cava
+#
+0
+1
+2
+Which of the following blood vessels are most important for regulating peripheral vascular resistance?
+0
+Venules
+1
+Capillaries
+0
+Veins
+0
+Aorta
+0
+Arterioles
+#
+0
+1
+2
+Which is wrong? The baroreceptor reflex...
+0
+regulates heart rate
+0
+keeps arterial blood pressure constant
+0
+involves the sympathetic and the parasympathetic nervous system
+0
+is a negative feedback mechanism
+1
+involves arterial barorecepors situated in the brain stem
+#
+0
+1
+2
+Which is correct? The compound action potential of a whole nerve...
+0
+is measured with intracellular electrodes
+0
+obeys to the all-or-none law
+0
+is minimal in amplitude at high stimulation intensities
+0
+is larger in amplitude than a single action potential measured intracellularly
+1
+is graded in amplitude
+#
+0
+1
+2
+Which is wrong? In the heart, sympathetic nerve endings...
+0
+activate beta adrenergic receptors (beta adrenoreceptors)
+0
+release noradrenaline
+0
+have a positive inotropic effect
+0
+increase heart rate
+1
+almost only innervate the atria
+#
+0
+1
+2
+Which is wrong?Vasoconstricion in aterioles is incluced by....
+1
+decrease of oxygen partial pressure in local tissue
+0
+increase in local tissue pH
+0
+noradrenalin
+0
+angiotensin
+0
+vasopressin
+#
+0
+0
+2
+Which is wrong?
+1
+NH3/NH4 is an important buffer system in blood
+0
+Normal blood pH is 7.5 +- 0.03
+0
+Hemoglobin plays an important role in buffering protons
+0
+Metabloic acidosis can be diagnosed by the characteristic change in base excess
+0
+Bse excess is a deviation from th enormal buffer base concentration
+#
+0
+0
+2
+Which is correct? The Frank-Starling mechanism regulates...
+0
+blood flow in the coronary circulation
+0
+impulse propagation in the conducting system of the heart
+1
+ventricular ejection volume in relation to filling volume
+0
+heart rate in relation to cardiac output
+0
+contraction of the atria
+#
+0
+0
+2
+Correct?
+0
+The CO binding curve of blood shows saturation.
+0
+90% of CO2 is transported in blood by physical solution.
+1
+The carbonic anhydrase reaction is important for CO2 transport in blood
+0
+The amount of CO2 which can be transported in oxygenised blood is higher than the amount of CO2 which can be transported in the same volume of deoxygenised blood
+0
+Oxygen is better soluble in water than CO2.
+#
+0
+0
+2
+Which is wrong?
+0
+fast glycolytic fibers are relatively poor in capillaries
+1
+Motor units contain fast glycolytic fibers and slow oxidative fibers
+0
+Skeletal muscle fibers showing no fatigue are rich in myoglobin 
+0
+muscle fatigue is the result of relative lack of ATP
+0
+muscle fibers showing fatigue produce the highest contractile force
+#
+0
+0
+2
+Wrong? Hemoglobin
+0
+consists of protein components and protoporphyine rings
+0
+consists of four subunits
+0
+and oxyhemoglobin absorbe light differently
+0
+binds 1.39ml O2 per gram
+1
+possesses Fe2+ which is oxidized to Fe3+ during transport of O2
+#
+0
+0
+2
+Which is wrong? Aldosterone
+0
+is released when extracellular K* increases
+0
+is a steroid hormone
+1
+is produced in the cortex of the suprarenal gland
+0
+evokes the secretion of Na* in the kidney
+0
+is released in response to angiotensin II
+#
+0
+0
+2
+Correct? Prostacyclin
+1
+is generated by the enzyme cyclooxygenase
+0
+is released when blood pressure decreases
+0
+is produced in smooth muscle of arterioles
+0
+evokes vasoconstriction
+0
+is produced from the amino acid L-arginine
+#
+0
+0
+2
+Correct? A tetanus
+0
+can be generated in cardiac muscle
+0
+is a summation of action potential in (alpha)-motoneurons
+0
+is generated by decreases repolarisation of muscle fibers
+1
+is a high-amplitude summation of contractile force in muscle fibers
+0
+is a summation of action potentials in the muscle fibers
+#
+0
+0
+2
+What is the approximate intracellular concentration of Na* ions in human?
+1
+10mmol/l
+0
+100mmol/l
+0
+4mmol/l
+0
+140mmol/l
+0
+50mmol/l
+#
+0
+0
+2
+Which of the following statements is correct? The first heart sound id generated by
+0
+filling of the ventricle
+0
+contraction of the atria
+1
+isovolumetric contraction of the ventricle
+0
+closure of the pulmonary valve
+0
+closure of the aortic valve
+#
+0
+0
+2
+Correct? When there is massive anglasting vomiting this can cause
+0
+respiratory acidosis
+0
+ketoacidosis
+0
+respiratory alkalosis
+1
+non-respiratory acidosis
+0
+non-respiratory alkalosis
+#
+0
+0
+2
+Correct? During inspiration pleural pressure (in cm H2O) is about
+0
+-2
+0
++7
+1
+-7
+0
+0
+0
++2
+#
+0
+0
+2
+Which is wrong? In cardiac myocytes of the working musculatur Ca++...
+0
+increases in concentration during contraction
+1
+evokes depolarisation
+0
+mainly comes from the extracellular compartment
+0
+is responsible for excitation-contraction coupling
+0
+usually leaves the cell by voltage-gated Ca++ channels
+#
+0
+0
+2
+Which is correct? Albunin...
+0
+has the sam concentration in the blood an in the interstitial fluid
+0
+belongs to the largest plasma proteins
+1
+has an important role in the generation of colloid osmotic pressure
+0
+is freely filtrated in the kidneys
+0
+transports erythrocytes in the blood
+#
+0
+0
+2
+Which is correct?The number of erythrocytes (red blood cells) in the blood of healthy adults is about...
+0
+10^4 /ml
+0
+10^4 / microLiters
+0
+4.5 * 10^8 / ml
+1
+4,5 * 10 ^6 / microLiters
+0
+10^3 / ml
+#
+0
+0
+2
+Wrong?
+0
+The chemoreceptor reflex regulates depth and frequency of breathing.
+0
+Stimuli to excite chemoreceptors are decreased of O2, low pH, and increase of CO2.
+1
+Central chemoreceptors are located in the brainstem (medulla oblongata)
+0
+Arterial chemoreceptors are located bilaterally in the glomus caroticum and glomus aorticum.
+0
+Decrease of O2 is the most powerful stimulus of eliciting the chemoreceptors reflex.
+#
+0
+0
+2
+Which is correct? Before the start of muscular contraction Ca++ binds to...
+0
+titin
+1
+troponin
+0
+tropomyosin
+0
+myosin
+0
+actin
+#
+0
+0
+2
+Which of the following statements is correct? In cardiac myocytes of the working musculature K+
+0
+is responsible for excitation-contraction coupling
+0
+mainly comes from extracellular compartment
+0
+increases in concentration durin excitation
+1
+leaves the cell at the late phase of the action potential through voltage-gated k+ channels
+0
+evokes depolarisation
+#
+0
+0
+2
+Correct? The precursor enzyme trypsinogen produced in the pancreas is activated in the duodenum by
+0
+pancreatic lipase
+0
+bile
+1
+enterokinase
+0
+chymotrypsin
+0
+pepsin
+#
+0
+0
+2
+Which is correct? Action potential duration of a cardiac myocyte of the working musculature in the ventricles is about
+0
+2-4 ms
+1
+200-400ms
+0
+20-40 ms
+0
+0.1-1 ms
+0
+2-5 s
+#
+0
+0
+2
+Which is correct? The TOTAL diameter of the vascular bed is largest at the level of the...
+0
+vena cava
+0
+venules
+0
+arterioles
+1
+aorta
+0
+capillaries
+#
+0
+0
+2
+Wrong? Hematocrit increases
+1
+when there is a relative decrease od plasma volume
+0
+in high altitude
+0
+when there is an increased level of erythropoetin
+0
+when the number of red blood cells increases
+0
+when full blood is transfused
+#
+0
+0
+2
+Which is wrong? Neutrophils (neutrophilic granulocytes)
+0
+phagocytose bacteria
+0
+produce pus
+0
+phagocytose dead matter
+1
+are the most numerous leukocytes in blood
+0
+belong to the specific immune system
+#
+0
+0
+2
+Wrong? When arterial blood pressure increases, the baroreceptor reflex evokes
+0
+a decrease of heart rate
+0
+an increase of vagus nerve activity innervating the sinoatrial node
+0
+a decrease of sympaathetic sctivity at resistance vessels
+1
+constiction of most arterioles
+0
+a decrease of cardiac output
+#
+0
+0
+2
+Correct? The blood flow (per unit of time) through a given blood vessel is most importantly determines by
+0
+the pressure difference between the ends of the blood vessel
+0
+blood viscosity
+0
+the thickness of the wall of the blood vessel
+0
+the length of the blood vessel
+1
+the diameter of the blood vessel
+#
+0
+0
+2
+Which is correct? The following arteries show pronounced auroregulation..
+0
+pulmonary arteries
+1
+Renal arteries
+0
+hepatic artery
+0
+arteries in skin
+0
+arteries in skeletal muscle
+#
+0
+0
+2
+Different parts of the cardiovascular system are ranked with respct to average blood pressure present inside. Which of the following rankings is the correct one?
+0
+Aorta > left ventricles > capillaries > arterioles > vena cava 
+0
+Aorta > left ventricle > arterioles > capallaries > right atrium
+0
+Aorta > left ventricle > venules > right atrium > capillaries
+1
+Left ventricle > aorta > arterioles > capillaries > vena cava
+0
+Left ventricle > aorta > arterioles > venules > capillaries
+#
+0
+0
+2
+Which is coorect? Action potentials in neurons are usually initated at...
+0
+the dendrites
+1
+the axon hillock
+0
+the axon terminal
+0
+the soma
+0
+the second node of Ranvier
+#
+0
+0
+2
+Correct? The average partial pressure of oxygen (O2) in venous blood of the systemic circulation is normally about
+0
+750mmHg
+0
+150mmHg
+0
+10mmHg
+0
+95mmHg
+1
+40mmHg
+#
+0
+0
+2
+In the tubular system of the kidneys antidiuretic hormone (ADH) acts mainly on
+0
+cells in the ascending part of the loof of Henle
+0
+cells in the proximal tubules
+0
+cells in the descending part of the loop of Henle
+0
+mesangium cells in the renal corpusce (glomeruli)
+1
+cells in the collecting ducts
+#
+0
+0
+2
+Wrong? Blood flow is regulated mainly by sympathetic nerves rather than local metaolic factors in
+0
+gastrointestinal tract
+1
+skeletal muscle under the condition of strin sctivity
+0
+skeletal muscle under resting conditions
+0
+kidney
+0
+skin
+#
+0
+0
+2
+Which of the following statements is wrong? Difference between action potential generated in cardiac muscle cells of the working musculature and action potential in cardiac muscle cells of the sinoatrial node include
+0
+duration
+1
+involvement of different ion channels
+0
+generation of the action potential by chemical versus electrical synapses
+0
+ability to generate the heart beat under physiological condotions
+0
+stability of resting membrane potential
+#
+0
+0
+2
+Which is correct? The difference between blood plasma and serum is the presence/absence of...
+0
+albumin
+0
+leukocytes
+0
+antibodies
+0
+erythocytes
+1
+fibrinogen
+#
+0
+0
+2
+Which is correct? During expiration pleural pressure (in cm H20) is about
+1
+-5
+0
+-2
+0
+0
+0
++5
+0
++1
+#
+0
+0
+2
+Which is correct? To which fraction of plasma proteins do antibodies (immunoglobulins) belong?
+0
+beta-globulin
+1
+gamma-globulin
+0
+alpha2-globulin
+0
+alpha-globulin
+0
+albumin
+#
+0
+0
+2
+Which of the following cardiovascular components does not belong to the high pressure system?
+0
+Arteries in systemic circulation
+0
+Aorta
+0
+Arterioles in systemic circulation
+0
+Left ventricle
+1
+Pulmonary artery
+#
+0
+0
+2
+Wrong?
+0
+Angiotensin 1 is converted to angiotensin 2 by angiotensin converting enzyme.
+0
+Renin converts angiotensinogen to angiotensin 1.
+0
+An increase of sytemic blood pressure leads to an increased liberation of renin.
+0
+Angiotensin 2 generates vasoconstriction.
+1
+Angiotensin 2 leads to a increase of blood pressure.
+#
+0
+0
+2
+Which is wrong? Buffer bases in the blood include...
+0
+plasma proteins
+0
+hemoglobin
+1
+NH3/NH4+
+0
+HPO4^2-
+0
+bicarbonate
+#
+0
+0
+2
+Which is correct? The precursor enyme trypsinogen produced in the pancreas is activated in the duodenum by..
+0
+HCI
+1
+enterokinase
+0
+pepsin
+0
+pancreatic lipase
+0
+bile
+#
+0
+0
+2
+Which is correct? Blood flow through the organ is regulated mainly by local metabolic factors rather than sympathetic nerves in
+0
+brain
+0
+kidney
+1
+skeletal muscle under resting conditions
+0
+skin
+0
+gastrointestinal tract
+#
+0
+0
+2
+Which of the following statements is correct? In the heart, parasympathetic effects are mediated by
+0
+nicotinic receptors
+0
+purinergic recptors
+1
+muscarinic receptors
+0
+(alpha)-adrenoreceptors
+0
+(beta)-adrenoreceptors
+#
+0
+0
+2
+Which is wrong? The following statements apply when measuring aterial blood pressure with an inflatable cuff and a stethoscope.
+1
+The higher the pressure in the cuff is between systolic and iastolic pressure the louder are the pulsatile sounds heard with the stethoscope
+0
+When the pressure in the cuff is above systolic pressure, no sounds are heard with the stethoscope
+0
+When the pressure in the cuff is between systolic and diastolic pressure, pulsatile sounds are heard with the stethoscope
+0
+the lower the presure in the cuff becomes between systolic and diastolic pressure, the longer in duration are the pulsatile sounds heard with the stethoscope
+0
+When the pressure in the cuff is below diastolic pressure, a continuous sound is heard with the stethoscope
+#
+0
+0
+2
+Which of the following factors can increase minute respiratory volume maximally?
+0
+painful stimuli
+1
+increased voluntary breathing
+0
+decrease in blood pH
+0
+increase in blood pCO2
+0
+decrease in blood oxygen
+#
+0
+0
+2
+Correct? Approximately what proportion of each breath ventilates anatomic dead space in a healthy male adult
+0
+50%
+0
+10%
+1
+30%
+0
+20%
+0
+5%
+#
+0
+0
+2
+Correct? At a heart rate of 0/min the R-R intervall in the ECG is
+0
+80ms
+0
+125ms
+0
+500ms
+1
+1000ms
+0
+750ms
+#
+0
+0
+2
+The net filtration pressure (NFP) in the renal glomeruli depends on glomerular blood hydrostatic pressure (GNJP) on hydrostatic pressure in the glomerular (Bowman's) capsule (CHP) and on blood colloid osmotic pressure (BCOP). Which is correct?
+0
+NFP = CHP + BCOP - HBHP
+0
+NFP = GBHP - CHP + BCOP
+1
+NFP = GBHP - CHP -BCOP
+0
+NFP = GBHP + CHP - BCOP
+0
+NFP = GBHP + CHP + BCOP
+#
+0
+0
+2
+Which of the following statements about nitric oxide (NO) is wong? NO...
+0
+is released in response to shear stress of blood flowing along the endothelium
+0
+is produced from the amino acid L-arginine
+1
+evokes vasoconstriction
+0
+is produced continually in the endothelium
+0
+is released in response to some biologically active substances
+#
+0
+0
+2
+In capillaries, there is filtration and subsequent reabsorption of plasma fluis. Which of the following factors decreases filtration?
+0
+Increased hydrostatic pressure inside blood vessels
+0
+Increased colloid osmotic pressure in the interstitial space
+1
+Decreased hydrostatic pressure in the interstitial space
+0
+Constriction of arterioles
+0
+Decreased colloid osmotic pressure inside the capillary
+#
+0
+0
+2
+Correct?
+0
+Postsynaptic potentials at the neuromuscular junction are small
+0
+The neuromuscular junction is an electrical synapse
+1
+Postsynaptic potentials at the neuromusculat junction ate mainly caused by influx of Na* ions
+0
+Neurotransmission at the neuromascular junction involves inhibitory receptors
+0
+Each skeletal muscle fiber is innervated by the axons of several motoneurons
+#
+0
+0
+2
+Which is wrong? The compound action potential of a whole nerve...
+0
+is graded in amplitude
+1
+obeys to the all-or-none-law
+0
+is maximal in amplitude at high stimulation intensities
+0
+is measured with extracellular electrodes
+0
+is generated in different functional types of axons
+#
+0
+0
+2
+Which of the following compounds does not play any role as a buffer base in the blood?
+0
+bicarbonate
+1
+HPO4(2-)
+0
+NH3
+0
+plasma protein
+0
+hemoglobin
+#
+0
+0
+2
+In which part of the renal tubular system is glucose reabsorbed?
+0
+Loop of Hnle (descending part)
+1
+Proximal tubule
+0
+Loop of Henle (ascending part)
+0
+Distal tubule
+0
+Collecting duct
+#
+0
+0
+2
+Which substance evokes the lysis of fibrin?
+1
+plasmin
+0
+vitamin K antagonists
+0
+citrate
+0
+EDTA
+0
+heparin
+#
+0
+0
+2
+Which is correct?
+0
+The neuromuscular junction is an electrical synapse
+0
+each skeletal muscle fiber is innervated by the axons of several motoneurons
+1
+Postsynaptic potentials at the neuromuscular junction are large
+0
+postsynaptic receptors at the neuromuscular junction are permeable for Ca++ ions
+0
+Neurotransmission at the neuromuscular junction involves inhibitory receptors
+#
+0
+0
+2
+Correct? Vital capacity of the lungs of a male young healthy adult person under resting conditions is approximately
+1
+4.5L
+0
+6L
+0
+1.5L
+0
+0.5L
+0
+3L
+#
+0
+0
+2
+Which is wrong? Minute respiratory volume
+0
+ist the volume of air inspired and expired in one minute
+0
+can increas to maximum of about 200 L/min
+1
+is about 12 L/min in a healthy adult under resting conditions
+0
+ventilates in part dead space
+0
+is eventually decreased in lung fibrosis
+#
+0
+0
+2
+Correct? The size (amplitude) of the action potential of a cardiac myocyte of the working musculature in the ventricle is about
+1
+20mV
+0
+-10mV
+0
+100mV
+0
+1mV
+0
+1V
+#
+0
+0
+2
+Which is wrong?
+0
+the pyloric sphincter controls the passage of chyme from stomach to duodenum
+0
+digestion in the stomach can be divided into a cephalic phase, a gastric phase and an intestinal phase
+0
+Distension of the duodenum inhibits gastric emptying
+0
+Distension of the stomach increases the motility of stomach
+1
+After a meal, fate leaves the stomach before proteins
+#
+0
+0
+2
+Correct? The function of monocytes is
+0
+antibody production
+1
+phagocytosis
+0
+transport of vitamins
+0
+fighting parasites
+0
+release of histamin
+#
+0
+0
+2
+Types of white blood cells are ranked according to their number in peripheral blood Which of ranking is correct?
+0
+Neutrophils > Lymphocytes > monocytes > basophils > eosinophils
+0
+Eosinophils > lymphocytes > neutrophils > monocytes > basophils
+0
+Lymphocytes > Neutrophils > monocytes > eosinophils > basophils
+0
+Lymphocytes > neutrophils > monocytes > basophils > eosinophils
+1
+Neutrophils > Lymphocytes > monocytes > eosinophils > basophils
+#
+0
+0
+2
+Which of following pancreatic enymes is activated first in the duodenum and then activates other precursor enzymes(pro-enzymes)?
+0
+elastase
+0
+amylase
+0
+chymotrypsin
+1
+trypsin
+0
+carboxypeptidase
+#
+0
+0
+2
+Which is correct? Patch clamp is a method to measure...
+0
+the intracellular concentration of ions
+0
+oxygen saturation of blood
+0
+nerve conduction
+0
+blood flow
+1
+single ion channels in a membrane
+#
+0
+0
+2
+Which is correct? Aldosterone
+0
+is released when extracellular L* decreases
+0
+is produced in the medulla of the suprarenal gland
+0
+evokes the secretion of Na* in the kidney
+1
+is released in response to angiotensin II
+0
+decreases circulating blood volume
+#
+0
+0
+2
+A function of a mast cell is
+0
+pus production
+0
+phagocytosis
+1
+release of histamin
+0
+killing of virus-infected cells
+0
+antibody production
+#
+0
+0
+2
+Which is wrong? Voltage-gatn Na* channels
+0
+are in part inacivated when the membrane is slowly depolarized
+1
+are blocked by atropine
+0
+show a more rapid opening behaviour than voltage-gated K* channels
+0
+show a high density in the nodes of Ranvier of an axon
+0
+are responsible for the refractory period because of their inactivation after an action potential
+#
+0
+0
+2
+Wrong? The compound action potential of a whole nerve
+1
+has an amplitude of about 100mV
+0
+is graded in amplitude
+0
+is measured with extracellualar electrodes
+0
+is generated in different functional types of axons
+0
+is maximal in amplitude at high stimulation intensities
+#
+0
+0
+2
+What is the approx. extracellular concentration of K+ ions in humans?
+0
+50mmol/l
+0
+10mmol/l
+0
+100 mmol/l
+0
+140 mmol/l
+1
+4 mmol/l
+#
+0
+0
+2
+Which si wrong? Thrombocytes (plateletes)
+0
+are cell fragements rather than cells
+0
+when too high in number can cause thrombosis
+0
+have a role in the intrinsic pahtway of the coagulation cascade
+1
+are normally produced in the liver
+0
+can release biocative molecules
+#
+0
+0
+2
+Which is wrong? The chemoreceptor reflex...
+0
+involves aterial chemoreceptors
+0
+involves neurons in the medulla oblongata
+0
+involves central chemoreceptors
+0
+regulates breathing
+1
+can increase minute respiratory volume to maximum
+#
+0
+0
+2
+What is approximately the electrical axis of the heart whe there is almost no R wave and almost no S wave in Einthoven III, and a large R wave of similar amplitude in Einthoven I and in Einthoven II?
+1
+90°
+0
+0°
+0
+120°
+0
+150°
+0
+30°
+#
+0
+0
+2
+Which is correct? The maximal number of leukocytes (white blood cells) in the blood of healthy adults is about...
+0
+4.5 * 10 ^6 mL
+1
+10^4/microL
+0
+10^3/mL
+0
+4.5 * 10^6/microL
+0
+10^4/ml
+#
+0
+0
+2
+Correct? Autoregulation of arteries is generated by
+0
+hormones
+0
+the endothelium
+0
+nerves
+1
+smooth muscles
+0
+local factors
+#
+0
+0
+2
+Which is wrong? Hematocrit increases...
+0
+when the production of red blood cells increases
+1
+when there is a relative decrease of plasma
+0
+when full blood is transfused
+0
+when there is an increased level of erythropoetion
+0
+in high altitude 
+#
+0
+0
+2
+Which is wrong? The chmoreceptor reflex...
+0
+involves the medulla oblongate
+0
+regulates breathing
+1
+can increase minut respiratory volume to maximum
+0
+involves central chemoreceptors
+0
+involves aterial chemoreceptors
+#
+0
+0
+2
+Correct? Turbulent blood flow
+0
+shows a linear pressure - flow relationship
+0
+is normally present in most parts of the cardiovascular system
+1
+occurs most often in large blood vessels
+0
+is most present when blood flow velocity is low
+0
+typically occurs when hematocrit increases
+#
+0
+0
+2
+Correct? Muscles become stiff shortly after death (rigor mortis). This is due to
+0
+the lack of depolarisation in the skeletal muscle
+0
+swelling of muscle cells
+1
+the lack of ATP
+0
+a too high concentration of Ca** ions
+0
+a lack of Ca** ions
+#
+0
+0
+2
+Wrong? The following statements apply when measuring arterial blood pressure with an inflatable cuff and a stethoscope:
+0
+When the pressure in the cuff is below diastolic pressure, a continous noise is heard with the stethoscope.
+0
+When the pressure in the cuff is between systolic and diastolic pressure, a pulsatile noise is heard with the stethoscope.
+1
+The higher the pressure in the cuff is between systolic and diastolic pressure, the louder is the pulsatile noise heard with the stethoscope
+0
+When the pressure in the cuff is above systolic pressure, no noise is heard with the stethoscope.
+0
+The lower the pressure in the cuff becomes between systolic and diastolic pressure, the longer in duration is the pulsatile noise heard with the stethoscope
+#
+0
+0
+2
+which is correct? The TOTAL amount of circulating plasma proteins in a healthy male adult of average size is about...
+0
+2,500 g
+0
+25 g
+1
+500 g
+0
+250 g
+0
+80 g
+#
+0
+0
+2
+Which is correct? The osmolarity of plasma is about...
+0
+100 mosmol/l
+1
+300 mosmol/l
+0
+25 mosmol/l
+0
+5600 mosmol/l
+0
+910 mosmol/l
+#
+0
+0
+2
+Which is correct? Inhibitory synapses which induce presynaptic inhibition are located on
+0
+the distal dendrites of the target neuron
+1
+the axon terminal of the target neuron
+0
+the proximal dendrites of the target neuron
+0
+the axon hillock of the target neuron
+0
+the soma of the target neuron
+#
+0
+0
+2
+Which is correct? The total amount of circulating plasma proteins in about...
+0
+910 mosmol/l
+1
+300 mosmol/l
+0
+100 mosmol/l
+0
+5600 mosmol/l
+0
+25 mosmol/l
+#
+0
+0
+2
+Correct? Proton secretion in the stomach
+0
+is performed by chief cells
+0
+is a passive transport process
+0
+is inhibited by histamine
+1
+is activated by gastrin
+0
+is controlled mainly by sympathetic nerves
+#
+0
+0
+2
+Which is correct? The pressure in the ventricles of the heart is minimal..
+0
+in the middle of diastole
+1
+at the end of diastole
+0
+in the first phase of systole
+0
+in the first phase of diastole
+0
+at the end of systole
+#
+0
+0
+2
+Which is correct? End-diastolic volume in the ventricles of the heart in healthy adults under resting conditions is about
+0
+70ml
+1
+120ml
+0
+50ml
+0
+500ml
+0
+10ml
+#
+0
+0
+2
+Wrong? Cholecystokinin (CCK)
+1
+is activated by trypsin
+0
+increases the secretion of pancreatic enzymes
+0
+inhibits gastric juice secretion
+0
+is induced by enteroendocrine cells
+0
+induces contractions of the gall bladder
+#
+0
+0
+2
+In which part of the renal tubular system are most of the filtrated amino acids reabsorbed?
+0
+Collecting duct
+0
+Distal tubule
+0
+Loop of Henle (ascending part)
+1
+Proximal tubule
+0
+Loop of Henle (descending part)
+#
+0
+0
+2
+Which of the following cariovascular components does not belong to the low pressure system?
+1
+Left ventricle
+0
+Left atrium
+0
+Pulmanoary artery
+0
+Vena cava
+0
+Right ventricle
+#
+0
+0
+2
+Which is correct? The function of monocytes is..
+1
+phagocytosis
+0
+release of histamin
+0
+playing an important role in hemostasis
+0
+antibody production
+0
+transport of vitamins
+#
+0
+0
+2
+Correct? A vasodilator released from pain receptors upon stimulation is
+1
+CGRP
+0
+adenosin
+0
+histamin
+0
+adrenalin
+0
+NO
+#
+0
+0
+2
+Wrong? The gatric phase of gastric digestion
+0
+is initiated by distention of the stomach
+0
+leads to increased gastric peristalsis
+1
+leads to decreased gastric emptying
+0
+leads to increase secretion of gastric juice
+0
+can be supported by aperitifs
+#
+0
+0
+2
+Which is wrong? Proton secretion in the stomach...
+1
+is performed by G cells
+0
+is an active transport process
+0
+is controlled by histamine
+0
+is controlled by gastrin
+0
+is controlled by parasympathetic nerves
+#
+0
+0
+2
+Which is correct? The conduction velocity of unmyelinated axons is about
+1
+1m/s
+0
+10-20m/s
+0
+50-70 m/s
+0
+100-120m/s
+0
+500m/s
+#
+0
+0
+2
+Which of the following statements baout nitric oxide (NO) is wrong? NO.....
+0
+is produced continually in the endothelium
+0
+is released in response to a range of biological substances
+0
+is released in response to shear stress of blood flowing along the endothelium
+1
+increases blood pressure
+0
+is produced from the amino acid L-arginine
+#
+0
+0
+2
+In relation to blood plasma, what is the maximal concentration of the urine which is excreted?
+0
+32-fold
+0
+2-fold
+0
+8-fold
+1
+4-fol
+0
+16-fold
+#
+0
+0
+2
+Which is correct? A tetanus...
+0
+is generated by high frequency stimulation of motor axons
+0
+occurs in cardiac muscle
+0
+is generated by a decreased repolarisation of muscle fibers
+0
+is due to the summation of endplate potentials
+1
+is a summation of action potentials on the muscle fibers.
+#
+0
+0
+2
+Which is correct? The second heart sound is generated by...
+0
+the "Windkessel" of the aorta
+1
+the closure of the aortic valve and pulmonary valve
+0
+the contraction of the atria
+0
+turbulent blood flow
+0
+the contraction of the ventricles
+#
+0
+0
+2
+The main effect of antidiuretic hormon (ADH) in the kindeys is...
+0
+decreased water reabsorption in the collecting ducts
+0
+decreased Na+ and water reabsorption in the collecting ducts
+1
+increased Na+ and water reabsorption in the collecting ducts
+0
+increased K+, Na+ and water reabsorption in the collecting ducts
+0
+increased water reabsorption in the collecting ducts
+#
+0
+0
+2
+Correct? The life span of red blood cells normally is about
+0
+10-20 days
+0
+50-70 days
+0
+1-2 days
+1
+100-120 days
+0
+150-180 days
+#
+0
+0
+2
+Wrong? Compliance of the lung
+0
+can be tested by measuring maximum voluntary ventilation
+0
+depends in part on elastin fibers in the lung
+0
+is decreased in lung fibrosis
+1
+affects expiration more than inspiration
+#
+0
+0
+2
+Hoch musch is normally the approximate proportion of (gamma)-globulins relative to the total amount of plasma proteins?
+0
+60%
+0
+12%
+1
+16%
+0
+8%
+0
+4%
+#
+0
+0
+2
+Correct? In cardisc myocytes of the working musculature Na*
+0
+mainly comes from intercellular stores
+0
+Is responsible for excitation-contraction coupling
+0
+increases intracellularity as a result of transmitter release
+0
+usually leaves the cell by voltage-gated Na+ channels
+1
+evokes depolarisation
+#
+0
+0
+2
+Which is correct? The partial pressure of oxygen in the pulmonary ateries is normally about..
+0
+40 mmHg
+0
+750 mmHg
+0
+10 mmHg
+1
+95 mmHg
+0
+150 mmHg
+#
+0
+0
+2
+Which is correct? The term afterload of the heart describes
+0
+maximal passiv stretch of ventricular muscle
+1
+the muscular force a ventricle has to generate to overcome the resistance in the distal vascular bed
+0
+the degree of cardiac hypertrophy
+0
+the filling volume of a ventricleduring diastole
+0
+the maximal muscular force a ventricle can generate during systole
+#
+0
+0
+2
+Correct? The colloid osmotic pressure of plasma is about
+0
+5600mosmol/l
+0
+100mosmol/l
+1
+300 mosmol/l
+0
+910mosmol/l
+0
+25mosmol/l
+#
+0
+0
+2
+Different parts of the cardiovascular system are ranked with respect to average blood pressure present inside. Which of the following rankings is the correct one?
+0
+Aorta > left ventricle > capillaries > arterioles > vena cava
+0
+Left ventricle > aorta > arterioles > capillaries > left atrium
+0
+Aorta > left ventricle > venules > right atrium > capillaries
+0
+left ventricle > aorta > capillaries > arterioles >venules
+1
+Aorta > left ventricle > aterioles > cpillaries > right atrium
+#
+0
+0
+2
+Which is correct? When there is a massive production of lactate in the body this causes...
+0
+respiratory alkalosis
+0
+non-respiratroy alkalosis
+1
+non-respiratory acidosis
+0
+respiratory acidosis
+0
+ketoacidosis
+#
+0
+0
+2
+Which is wrong? In the heart, parasympathetic nerve endings of the vagus nerve...
+0
+slow impulse conduction from the atria to the ventricles
+0
+release acetyl choline
+0
+almost only innervate the atria in humans
+0
+decrease heart rate
+1
+activate nicotinic receptors
+#
+0
+0
+2
+Wrong? Albumin
+0
+transports some drugs
+0
+is involved in blood pH regulation
+1
+is freely filtrated in the glomeruli of the kidneys
+0
+belongs to the smallest plasma proteins
+0
+has an important role in the generation of colloid osmotic pressure
+#
+0
+0
+2
+Wrong? Arterial baroreceptors
+0
+induce the baroreceptor reflex
+1
+are more sensitive to slow changes in blood pressure than the rapid changes
+0
+respond to stretch of the arterial wall
+0
+are located in the aortic sinus
+0
+are located in the carotid sinus
+#
+0
+0
+2
+Which is correct? The central chemoreceptors are located in the...
+1
+medulla oblongata
+0
+aorta
+0
+spinal cord
+0
+carotid atery
+0
+hypothalamus
+#
+0
+0
+2
+Which is wrong? Airway resistance...
+0
+is increased by contraction of airway smooth muscle
+0
+is defined as the relation between alveolar pressure and the magnitude of airflow
+1
+is decreased in asthma
+0
+affects expiration more than inspiration
+0
+when increased leads to decreased maximum voluntary ventilation
+#
+0
+0
+2
+Wrong? Functions of the liver include
+0
+storage of glycogen
+0
+detoxification
+0
+production of plasma proteins
+0
+synthesis of cholesterol
+1
+synthesis of digestive enzymes
+#
+0
+0
+2
+Which is correct? The pressure in the ventricles of the heart is maximal
+0
+at the end of diastole
+1
+in the middle of systole
+0
+at the end of systole
+0
+in the first phase of systole
+0
+in the first phase of diastole
+#
+0
+0
+2
+What is the approximate extracellular concentration of Na* ions in humans?
+0
+toastbrot
+0
+100 mmol/l
+1
+10 mmol/l
+0
+145 mmol/l
+0
+4 mmol/l
+0
+50 mmol/l
+#
+0
+0
+2
+Which is correct? Aterial baroreceptors are located in...
+1
+the atria of the herat
+0
+the kidneys
+0
+the brain stem
+0
+the lungs
+0
+the carotid sinus
+#
+0
+0
+2
+Which is wrong?The intestinal phase of gastric digestion..
+0
+can be initated by chemoreceptors detecting fatty acids and glucose in the duodenum
+1
+leads to increased gastric emptying
+0
+leads to secretion of cholecystokinin (CKK)
+0
+can be initiated by distention of the duodenum
+0
+leads to scretion of scretin
+#
+0
+0
+2
+Which is correct? Turbulent blood flow...
+0
+is normally present in most parts of the cardiovascular system
+0
+typically occurs when hematocit decreases
+1
+is most prominent when blood flow velocity is low
+0
+occurs most often in small blood vessels
+0
+shows a linear presure - flow relationship
+#
+0
+0
+2
+The net filtration pressure (NFP) in the renal glomeruli depends on glomerular blood hydrostatic pressure (GBHP), on hydrostatic pressure in the glomerular (Bowman's) capsule (CHP) and on blood colloid osmotic pressure (BCOP). Which of the following equations is correct?
+0
+NFP=GBHP+CHP-BCOP
+1
+NFP=GBHP-CHP-BCOP
+0
+NFP=GBHP+CHP+BCOP
+0
+NFP=CHP+BCOP-GBHP
+0
+NFP=GBHP-CHP+BCOP
+#
+0
+0
+2
+The normal pH value in arterial blood is...
+0
+7.2+-0.03
+1
+7.4 +-0.03
+0
+7.6+-0.03
+0
+7.3+-0.03
+0
+7.5+-0.03
+#
+0
+0
+2
+Which is correct? The following factors lead to an increase of respiration..
+1
+increase of partial pressure of CO2 in the blood
+0
+decrease of body temperature
+0
+increase of partial pressure of oxygen in the blood
+0
+increase of blood pH
+0
+drugs like morphine which depress neurons in the brain stem
+#
+0
+0
+2
+Which is wrong? Funcions of the liver include...
+0
+synthesis of cholesterol
+0
+productiion of plasma proteins
+0
+storage of glycogen
+0
+detoxification
+1
+synthesis of digestive enymes
+#
+0
+0
+2
+Which is wrong? The oxygen binding cureve of blood...
+0
+is shifted to the right in the presence of increased CO2
+0
+shows near to maximal oxygen binding at a partial pressure of 100 mmHg
+0
+is very steep below a partial pressure of about 40 mmHg
+1
+shows half saturation at a partial pressure of about 70 mmHg
+0
+is sigmoidal
+#
+0
+0
+2
+Which is wrong? The following factors lead to an increase of respiration
+0
+increase of body temperature
+0
+decrease of partial pressure of oxygen in the blood
+0
+painful stimulation
+1
+increase of boold pH
+0
+increase of partial pressure of CO2 in the blood
+#
+0
+0
+2
+Which is correct? The pressure in the ventricles of the heart is maximal...
+1
+in the middle of systole
+0
+at the end of systole
+0
+in the first phase of systole
+0
+at the end of diastole
+0
+in the first phase of diastole
+#
+0
+0
+2
+Which is correct? The ejection fraction of the heart in healthy adults is normally about
+1
+60%
+0
+40%
+0
+10%
+0
+20%
+0
+100%
+#
+0
+0
+2
+Which is correct? Residual volume of the lungs of a male young healthy adult person is approximately...
+0
+1.0l
+0
+0.5l
+0
+3l
+0
+2l
+1
+1.5 l
+#
+0
+0
+2
+Which is wrong? When athletes take erythropoetin as a doping substance this leads to..
+1
+decreased blood viscosity
+0
+increased oxygen transport capacity in blood
+0
+an increased hematrocit
+0
+an increased number of erythrocytes
+0
+an increased number of reticulocytes
+#
+0
+0
+2
+Which is wrong? Enzymes (or pro-enzymes) secreted by the pancreas are...
+0
+procarboxypeptidase
+0
+trypsinogen
+0
+chymotrypsinogen
+0
+proelastase
+1
+pepsinogen
+#
+0
+0
+2
+Which is correct? The refractory period of neuron...
+0
+is caused by the number of leak ion channels
+0
+is the same in all neurons
+1
+determines the maximal possible frequency of action potentials
+0
+is mostly changed by the action of neurotransmitters
+#
+0
+0
+2
+Which is correct? "Autoregulation" of blood flow through an organ is mainly generated by...
+0
+neuropeptides
+1
+arterial smooth muscle in response to blood pressure changes
+0
+oxygen saturation in blood
+0
+sympathetic nerves
+0
+hormones
+#
+0
+0
+2
+When the end-diastolic volume int the ventricles increases, the ejection volume of the ventricles also increases. Which of the following mechanisms is responsible?
+0
+Sympathetic nerves
+0
+Hormones
+0
+Parasympathetic nerves
+1
+Frank Starling mechanism
+0
+Barorecetor reflex
+#
+0
+0
+2
+Which is wrong? A baroreceptor reflex..
+0
+depends on sensors (receptors) in the atria of the heart
+0
+involves centers in the brain stem
+1
+regulates heart rate
+0
+compensates rapid drops in blood pressure
+0
+regulates aterial blood pressure
+#
+0
+0
+2
+Which is wrong? Thrombocytes (platelets)...
+0
+are activated by exposed collagen
+0
+are produced in the bone marrow
+0
+initate hemostasis
+1
+possess a single nucleus
+0
+release bioactive molecules
+#
+0
+0
+2
+Which is correct? The refractory of a neuron is caused by...
+0
+excessiv inward flow of Cl- ions
+0
+the number of leak ion channels
+0
+the repolarisation of a neuron
+0
+the geometry of a neuron
+1
+the inactivation of voltage-gated Na* channels after an action potential
+#
+0
+0
+2
+Which of the following is correct? Which type of ion channels is responsible for the generation of the resting membrane potential?
+1
+leak ion channels
+0
+voltage-gated ion channels
+0
+indirectly gated ion channels
+0
+ligand-gated ion channels
+0
+mechanically gated ion channels
+#
+0
+0
+2
+What is approximately the electrical axis of the heart when there is almost no Rwave and almost no S wave in Einthoven 1, and large R wave of similar amplitude in Einthoven 2 and 3?
+0
+0�
+0
+30�
+1
+90�
+0
+60�
+0
+120�
+#
+0
+0
+2
+Correct? Thrombocyte (platelet) aggregation is decreased by
+0
+Ca**
+1
+aspirin
+0
+histamin
+0
+exposed collagen
+0
+vitamin K
+#
+0
+0
+2
+In which part of the renal tubular system is most of the filtrated water reabsorbed?
+0
+Distal tubule
+0
+Loop of Henle (ascending part)
+0
+Collecting duct
+1
+Proximal tubule
+0
+Loop of Henle (descarding part)
+#
+0
+0
+2
+Which of the following statements is correct? The ST segment in the ECG represents
+0
+the complete repolarisation of the conducting system
+0
+the complete depolarisation of the atria
+1
+the complete depolarisation of the ventricle
+0
+the repolarisation of the atria
+0
+the repolarisation of the ventricle
+#
+0
+0
+2
+Which is wrong? Albumin
+0
+is involved in blood pH regulation
+0
+transports some drugs
+0
+is involved in bilirubin transport
+1
+belongs to the largest plasma proteins
+0
+has an important role in the generation of colloid osmotic pressure
+#
+0
+0
+2
+Correct? Electromyogram (EMG) is the registration of
+0
+receptor potentials of sensory nerves supplying that muscle
+1
+action potentials of skeletal muscle fibers
+0
+synaptic currents at the neuromuscular junction
+0
+action potentials of the motor nerve
+0
+postsynaptic potentials of skeletal muscles fibers
+#
+0
+0
+2
+The glomerular filtration rate (GFR) in healthy adults is normally about (in mL/min)
+0
+75
+0
+175
+0
+225
+1
+125
+0
+25
+#
+0
+0
+2
+Which is correct? The difference between the pressure in inspiration and in expiration inside the alevoli (in cm H20) in young healthy adulits is about.....
+0
+7
+0
+5
+0
+10
+0
+2
+1
+1
+#
+0
+0
+2
+Which is correct? The total diameter of the vascular bed is smallest at the level of the..
+0
+arterioles
+0
+vena cave
+0
+abdominal aorta
+1
+capillaries
+0
+venules
+#
+0
+0
+2
+Which is wrong? Antiduretic hormone (AD)
+0
+elicits the insertion of water channels in membranes of collecting duct cells
+0
+when lacking, results in the excretion of about 20L urin per day
+0
+is released from the pituritary gland
+1
+leads to the excretion of dilute urine
+0
+is released when plasma osmolarity rises
+#
